@@ -17,7 +17,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "SwiftProtobuf",
-            path:"SwiftProtobuf"
+            path: "SwiftProtobuf.xcframework"
         )
     ]
 )
